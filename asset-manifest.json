@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ba47df86.css",
-    "main.js": "/static/js/main.0cb5fa0b.js",
+    "main.js": "/static/js/main.20b5269a.js",
     "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
-    "static/media/circle_self.png": "/static/media/circle_self.f9814770606e85d25193.png",
-    "static/media/backdrop.jpeg": "/static/media/backdrop.93619e6e7b6bca8f7510.jpeg",
+    "static/media/backdrop.jpeg": "/static/media/backdrop.9ae1e8d79ad4ff0d83ca.jpeg",
+    "static/media/circle_profile.png": "/static/media/circle_profile.1dac06e0891adc25ee76.png",
     "static/media/SourceSansPro-ExtraLight.ttf": "/static/media/SourceSansPro-ExtraLight.57c42ad75a79508f1694.ttf",
     "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.358e8828cd2fc97c7e74.ttf",
     "static/media/SourceSansPro-Semibold.ttf": "/static/media/SourceSansPro-Semibold.65e949bf8ce97ff997cf.ttf",
@@ -25,11 +25,11 @@
     "static/media/chevron-down-dark.svg": "/static/media/chevron-down-dark.f624b83300c6e6c3d32f73b6cb787b67.svg",
     "static/media/chevron-down-light.svg": "/static/media/chevron-down-light.4b88fc24b1f494f8162598df7c656f96.svg",
     "main.ba47df86.css.map": "/static/css/main.ba47df86.css.map",
-    "main.0cb5fa0b.js.map": "/static/js/main.0cb5fa0b.js.map",
+    "main.20b5269a.js.map": "/static/js/main.20b5269a.js.map",
     "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba47df86.css",
-    "static/js/main.0cb5fa0b.js"
+    "static/js/main.20b5269a.js"
   ]
 }
