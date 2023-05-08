@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.66c5f5f6.css",
-    "main.js": "/static/js/main.eb81c587.js",
+    "main.css": "/static/css/main.e88587de.css",
+    "main.js": "/static/js/main.d7461541.js",
     "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
     "static/media/backdrop.jpeg": "/static/media/backdrop.9ae1e8d79ad4ff0d83ca.jpeg",
     "static/media/circle_profile.png": "/static/media/circle_profile.1dac06e0891adc25ee76.png",
@@ -24,12 +24,12 @@
     "static/media/chevron-left-light.svg": "/static/media/chevron-left-light.a64e250e84007bcc5478ac404577d93c.svg",
     "static/media/chevron-down-dark.svg": "/static/media/chevron-down-dark.f624b83300c6e6c3d32f73b6cb787b67.svg",
     "static/media/chevron-down-light.svg": "/static/media/chevron-down-light.4b88fc24b1f494f8162598df7c656f96.svg",
-    "main.66c5f5f6.css.map": "/static/css/main.66c5f5f6.css.map",
-    "main.eb81c587.js.map": "/static/js/main.eb81c587.js.map",
+    "main.e88587de.css.map": "/static/css/main.e88587de.css.map",
+    "main.d7461541.js.map": "/static/js/main.d7461541.js.map",
     "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66c5f5f6.css",
-    "static/js/main.eb81c587.js"
+    "static/css/main.e88587de.css",
+    "static/js/main.d7461541.js"
   ]
 }
